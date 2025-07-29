@@ -37,6 +37,33 @@ An intelligent study assistant that transforms text documents into interactive l
 - **Progress Tracking**: Study metrics and insights
 - **File Information**: Detailed document statistics
 
+## Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/main.png)
+_StudyGenius main dashboard with all features accessible_
+
+### Text Summarization
+
+![Text Summarization](screenshots/summary.png)
+_AI-powered text summarization with multiple algorithm options_
+
+### Flashcard Generation
+
+![Flashcard Generation](screenshots/flashcards.png)
+_Automatic flashcard creation from uploaded documents_
+
+### Interactive Quiz
+
+![Quiz Interface](screenshots/quiz.png)
+_Auto-generated quizzes for effective learning assessment_
+
+### File Upload
+
+![File Upload](screenshots/fileUpload.png)
+_Simple drag-and-drop file upload interface_
+
 ## Installation
 
 ### Prerequisites
