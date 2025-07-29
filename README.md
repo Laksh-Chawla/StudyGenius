@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyGenius - AI-Powered Study Tool
 
 An intelligent study assistant that transforms text documents into interactive learning materials including summaries, flashcards, and quizzes using advanced NLP techniques.
